@@ -1,0 +1,6 @@
+name = input("Enter the name ")
+add = input("Enter the address ")
+mob = int(input("Enter the number "))
+print("name =", name)
+print("address =", add)
+print("mobile number =",mob)

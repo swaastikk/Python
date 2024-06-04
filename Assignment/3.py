@@ -1,0 +1,6 @@
+a = int(input("enter the first value ="))
+b = int(input("enter the second value ="))
+c = int(input("enter the third value ="))
+d = int(input("enter the fourth value ="))
+Distance = float((b-a)**2+(d-c)**2)
+print("Distance between two point = ",Distance)
